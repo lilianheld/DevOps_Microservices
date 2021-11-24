@@ -5,7 +5,7 @@
 
 # Step 1:
 # Create dockerpath
-dockerpath=1802/udacity_project4
+dockerpath=1802/udacity_project4:flaskapp
 
 # Step 2:  
 # Authenticate & tag
